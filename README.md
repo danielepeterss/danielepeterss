@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @danielepeterss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-danielepeterss/danielepeterss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi meu nome é Daniele
+- 👀 Estou interessada em aprender novas linguagens 
+- 🌱 Estou aprendendo recentemente a programar a linguagem JavaScript e Scrath
